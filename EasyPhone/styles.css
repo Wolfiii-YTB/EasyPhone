@@ -1,0 +1,84 @@
+body {
+    background-color: #00fdbe;
+}
+
+.txtbienvenue {
+      font-family: "Cherry Bomb One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 6em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.slogan {
+    font-family: "Cherry Bomb One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3em;
+}
+
+footer {
+    text-align: center;
+    font-family: "Basic", sans-serif;
+    font-size: larger;
+}
+
+.info {
+    margin-bottom: 30px;
+    font-family: "Sansation", sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.commence {
+    font-family: "Cherry Bomb One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 3.5em;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.encadre_style {
+    font-family: "Sansation", sans-serif;
+    background: #000000;
+    padding: 20px;
+    border-radius: 20px;
+    height: 10em;
+    width: 45em;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue !important; 
+    text-decoration: none !important;
+    cursor: pointer;
+     overflow: hidden;
+     margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.instructions {
+    font-family: "Sansation", sans-serif;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.home-icon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
